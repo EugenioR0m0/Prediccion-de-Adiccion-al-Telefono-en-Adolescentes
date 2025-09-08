@@ -83,6 +83,6 @@ Este proyecto utiliza el dataset [Teen Phone Addiction and Lifestyle Survey](htt
 El proyecto demuestra que es posible predecir con alta precisión la adicción al teléfono en adolescentes y, al mismo tiempo, identificar los hábitos más determinantes. Estos resultados pueden ser útiles para diseñar estrategias de prevención y concientización sobre el uso responsable de la tecnología en jóvenes.
 
 ## Archivos del repositorio
-- [Prediccion_Adiccion_Telefono.ipynb](Prediccion_Adiccion_Telefono.ipynb) - Notebook con el código, gráficas y explicaciones.
-- [Prediccion_Adiccion_Telefono.html](Prediccion_Adiccion_Telefono.html) - Versión exportada del notebook en formato HTML para visualizar sin ejecutar código.
-- [teen_phone_addiction_dataset.csv](teen_phone_addiction_dataset.csv) - Base de datos original utilizada para el análisis.
+- [Prediccion_Adiccion_Telefono.ipynb](Prediccion_Adiccion_Telefono.ipynb) 
+- [Prediccion_Adiccion_Telefono.html](Prediccion_Adiccion_Telefono.html) 
+- [teen_phone_addiction_dataset.csv](teen_phone_addiction_dataset.csv) 
